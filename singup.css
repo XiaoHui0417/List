@@ -1,0 +1,170 @@
+.login2 {
+  background-color: rgb(223, 193, 234);
+  font-size: 30px;
+  color: rgb(59, 43, 68);
+  height: 480px;
+  width: 100%;
+  text-align: center;
+  background-image: url(https://img.tt98.com/d/file/tt98/2019091603013363/5d282619757f1.jpg);
+  background-position: center;
+  background-repeat: no repeat;
+  background-size: cover;
+}
+.login2 .box1 {
+  font-size: 30px;
+  color: rgb(92, 66, 108);
+  position: absolute;
+  top: 180px;
+  left: 490px;
+}
+.login2 .box1 input {
+  display: rgb(115, 46, 149);
+  padding-left: 40px;
+  border-radius: 10px;
+}
+.login2 .box1 h3 {
+  font-size: 25px;
+  position: absolute;
+  left: 300px;
+  top: -15px;
+  z-index: 1;
+}
+.login2 .box1 h4 {
+  font-size: 18px;
+  position: absolute;
+  top: -40px;
+}
+.login2 .box1 h5 {
+  height: 30px;
+  width: 300px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: -30px;
+  top: -40px;
+}
+.login2 .box1 h2 {
+  font-size: 20px;
+  position: absolute;
+  left: 10px;
+  top: -4px;
+  z-index: 1;
+}
+.login2 .box2 {
+  font-size: 30px;
+  color: rgb(92, 66, 108);
+  position: absolute;
+  top: 240px;
+  left: 490px;
+}
+.login2 .box2 input {
+  display: rgb(115, 46, 149);
+  padding-left: 40px;
+  border-radius: 10px;
+}
+.login2 .box2 h3 {
+  font-size: 18px;
+  position: absolute;
+  left: 10px;
+  top: -4px;
+}
+.login2 .box2 h4 {
+  font-size: 18px;
+  position: absolute;
+  top: -40px;
+}
+.login2 .box2 h6 {
+  font-size: 25px;
+  position: absolute;
+  top: -45px;
+  left: 300px;
+}
+.login2 .box3 {
+  font-size: 30px;
+  color: rgb(92, 66, 108);
+  position: absolute;
+  top: 300px;
+  left: 490px;
+}
+.login2 .box3 input {
+  display: rgb(115, 46, 149);
+  padding-left: 40px;
+  border-radius: 10px;
+}
+.login2 .box3 h3 {
+  font-size: 18px;
+  position: absolute;
+  left: 12px;
+  top: -4px;
+}
+.login2 .box3 h4 {
+  font-size: 18px;
+  position: absolute;
+  top: -40px;
+}
+.login2 .box3 h6 {
+  font-size: 25px;
+  position: absolute;
+  top: -45px;
+  left: 300px;
+}
+.login2 .box4 {
+  font-size: 30px;
+  color: rgb(92, 66, 108);
+  position: absolute;
+  top: 360px;
+  left: 490px;
+}
+.login2 .box4 input {
+  display: rgb(115, 46, 149);
+  padding-left: 40px;
+  border-radius: 10px;
+}
+.login2 .box4 h3 {
+  font-size: 18px;
+  position: absolute;
+  left: 12px;
+  top: -4px;
+}
+.login2 .box4 h4 {
+  font-size: 18px;
+  position: absolute;
+  top: -40px;
+}
+.login2 .box4 h6 {
+  font-size: 25px;
+  position: absolute;
+  top: -45px;
+  left: 300px;
+}
+.login2 h5 {
+  height: 50px;
+  width: 160px;
+  background-color: rgb(84, 69, 93);
+  font-size: 36px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: 555px;
+  top: 380px;
+}
+.login2 .btn {
+  font-size: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(84, 69, 93);
+  height: 40px;
+  width: 200px;
+  border: none;
+  transition: 1s;
+  position: relative;
+  left: 27px;
+  top: 280px;
+  border-radius: 10px;
+}
+.login2 .btn:hover {
+  cursor: pointer;
+  background-color: #b678c4;
+  color: #f2f0f4;
+  transition: 1s;
+}
+.login2 .btn:active {
+  scale: 0.95;
+}/*# sourceMappingURL=singup.css.map */

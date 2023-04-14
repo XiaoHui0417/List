@@ -1,0 +1,132 @@
+.login1 {
+  background-color: rgb(223, 193, 234);
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  height: 490px;
+  width: 100%;
+  text-align: center;
+  background-image: url(https://xinzhuobu.com/wp-content/uploads/2022/12/20221211006.jpg);
+  background-position: center;
+  background-repeat: no repeat;
+  background-size: cover;
+}
+.login1 .box1 {
+  font-size: 30px;
+  color: rgb(28, 36, 56);
+  position: absolute;
+  top: 200px;
+  left: 460px;
+}
+.login1 .box1 input {
+  display: rgb(33, 52, 101);
+  padding-left: 40px;
+  border-radius: 10px;
+}
+.login1 .box1 h3 {
+  font-size: 25px;
+  position: absolute;
+  left: 300px;
+  top: -15px;
+  z-index: 1;
+}
+.login1 .box1 h4 {
+  font-size: 18px;
+  position: absolute;
+  top: -40px;
+}
+.login1 .box1 h5 {
+  height: 30px;
+  width: 300px;
+  background-color: rgb(33, 52, 101);
+  position: absolute;
+  left: -30px;
+  top: -40px;
+}
+.login1 .box1 h2 {
+  font-size: 20px;
+  position: absolute;
+  left: 10px;
+  top: -4px;
+  z-index: 1;
+}
+.login1 .box2 {
+  font-size: 30px;
+  color: rgb(28, 36, 56);
+  position: absolute;
+  top: 260px;
+  left: 460px;
+}
+.login1 .box2 input {
+  display: rgb(33, 52, 101);
+  padding-left: 40px;
+  border-radius: 10px;
+}
+.login1 .box2 h3 {
+  font-size: 25px;
+  position: absolute;
+  left: 300px;
+  top: -15px;
+  z-index: 1;
+}
+.login1 .box2 h4 {
+  font-size: 18px;
+  position: absolute;
+  top: -40px;
+}
+.login1 .box3 {
+  font-size: 20px;
+  color: rgb(28, 36, 56);
+  position: absolute;
+  top: 320px;
+  left: 470px;
+  font-weight: bold h5;
+  font-weight-height: 50px;
+  font-weight-width: 180px;
+  font-weight-background-color: rgb(33, 52, 101);
+  font-weight-font-size: 36px;
+  font-weight-color: rgb(255, 255, 255);
+  font-weight-position: absolute;
+  font-weight-left: 60px;
+}
+.login1 .box3 .btn {
+  font-size: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(33, 52, 101);
+  height: 30px;
+  width: 100px;
+  border: none;
+  transition: 1s;
+  position: relative;
+  left: 110px;
+  border-radius: 10px;
+}
+.login1 .box3 .btn:hover {
+  cursor: pointer;
+  background-color: #5267bd;
+  color: #f2f0f4;
+  transition: 1s;
+}
+.login1 .box3 .btn:active {
+  scale: 0.95;
+}
+.login1 .btn2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(33, 52, 101);
+  height: 40px;
+  width: 200px;
+  border: none;
+  transition: 1s;
+  position: relative;
+  left: 55px;
+  border-radius: 10px;
+}
+.login1 .btn2:hover {
+  cursor: pointer;
+  background-color: #5267bd;
+  color: #f2f0f4;
+  transition: 1s;
+}
+.login1 .btn2:active {
+  scale: 0.95;
+}/*# sourceMappingURL=index.css.map */
